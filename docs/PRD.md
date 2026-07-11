@@ -1,4 +1,4 @@
-# ForgeFlow
+# ProjectHub
 
 > Production-grade distributed project management backend built with Go.
 
@@ -10,7 +10,7 @@
 
 | Field | Value |
 |-------|-------|
-| Project | ForgeFlow |
+| Project | ProjectHub |
 | Version | v1.0 |
 | Status | Draft |
 | Author | Lakshya |
