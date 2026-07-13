@@ -7,5 +7,5 @@ package main
 )*/
 
 func main() {
-	constants()
+	operator()
 }
