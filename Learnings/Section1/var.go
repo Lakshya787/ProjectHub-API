@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"goproject/Learnings/module1/packages/muth"
+	"goproject/Learnings/Section1/packages/muth"
 
 	"github.com/google/uuid"
 )
