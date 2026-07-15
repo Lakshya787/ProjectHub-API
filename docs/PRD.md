@@ -11,7 +11,7 @@
 | Field | Value |
 |-------|-------|
 | Project | ProjectHub |
-| Version | v1.0 |
+| Version | alpha |
 | Status | Draft |
 | Author | Lakshya |
 | Target | Portfolio / Learning Project |
