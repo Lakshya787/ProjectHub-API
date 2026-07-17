@@ -1,5 +1,7 @@
 package main
 
-func main(){
-	fmt.pri
+import "fmt"
+
+func main() {
+	fmt.Println("Hello World")
 }
